@@ -1,0 +1,23 @@
+{
+  "name": "0.0.0",
+  "version": "1.0.9",
+  "description": "first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "css",
+    "gif"
+  ],
+  "author": "Tinashe Itayi",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0"
+  }
+}
